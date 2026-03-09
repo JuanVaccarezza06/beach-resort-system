@@ -1,0 +1,236 @@
+[
+    {
+        "NumeroTelefonoEmpleado": "123456789",
+        "EmpleadoID": "BDB33",
+        "IdPuestoDelEmpleado": "F7095",
+        "EmpleadoDNI": "12345678A",
+        "EmailDelEmpleado": "juan.perez@example.com",
+        "OrigenDelEmpleado": "Argentina",
+        "NombreCompletoEmpleado": "Juan Pérez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "234567891",
+        "EmpleadoID": "74F94",
+        "IdPuestoDelEmpleado": "F7095",
+        "EmpleadoDNI": "23456789B",
+        "EmailDelEmpleado": "maria.lopez@example.com",
+        "OrigenDelEmpleado": "Chile",
+        "NombreCompletoEmpleado": "María López"
+    },
+    {
+        "NumeroTelefonoEmpleado": "345678912",
+        "EmpleadoID": "1F403",
+        "IdPuestoDelEmpleado": "F7095",
+        "EmpleadoDNI": "34567890C",
+        "EmailDelEmpleado": "carlos.garcia@example.com",
+        "OrigenDelEmpleado": "Perú",
+        "NombreCompletoEmpleado": "Carlos García"
+    },
+    {
+        "NumeroTelefonoEmpleado": "456789123",
+        "EmpleadoID": "694CB",
+        "IdPuestoDelEmpleado": "F7095",
+        "EmpleadoDNI": "45678901D",
+        "EmailDelEmpleado": "lucia.fernandez@example.com",
+        "OrigenDelEmpleado": "México",
+        "NombreCompletoEmpleado": "Lucía Fernández"
+    },
+    {
+        "NumeroTelefonoEmpleado": "567891234",
+        "EmpleadoID": "15D63",
+        "IdPuestoDelEmpleado": "F7095",
+        "EmpleadoDNI": "56789012E",
+        "EmailDelEmpleado": "pedro.gomez@example.com",
+        "OrigenDelEmpleado": "Uruguay",
+        "NombreCompletoEmpleado": "Pedro Gómez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "678912345",
+        "EmpleadoID": "B2C97",
+        "IdPuestoDelEmpleado": "9999E",
+        "EmpleadoDNI": "67890123F",
+        "EmailDelEmpleado": "ana.sanchez@example.com",
+        "OrigenDelEmpleado": "Colombia",
+        "NombreCompletoEmpleado": "Ana Sánchez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "789123456",
+        "EmpleadoID": "40080",
+        "IdPuestoDelEmpleado": "9999E",
+        "EmpleadoDNI": "78901234G",
+        "EmailDelEmpleado": "luis.martinez@example.com",
+        "OrigenDelEmpleado": "Ecuador",
+        "NombreCompletoEmpleado": "Luis Martínez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "891234567",
+        "EmpleadoID": "E0AD6",
+        "IdPuestoDelEmpleado": "9999E",
+        "EmpleadoDNI": "89012345H",
+        "EmailDelEmpleado": "marta.rodriguez@example.com",
+        "OrigenDelEmpleado": "Paraguay",
+        "NombreCompletoEmpleado": "Marta Rodríguez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "912345678",
+        "EmpleadoID": "FFCBF",
+        "IdPuestoDelEmpleado": "9999E",
+        "EmpleadoDNI": "90123456I",
+        "EmailDelEmpleado": "miguel.torres@example.com",
+        "OrigenDelEmpleado": "Venezuela",
+        "NombreCompletoEmpleado": "Miguel Torres"
+    },
+    {
+        "NumeroTelefonoEmpleado": "123456789",
+        "EmpleadoID": "54733",
+        "IdPuestoDelEmpleado": "9999E",
+        "EmpleadoDNI": "01234567J",
+        "EmailDelEmpleado": "sofia.morales@example.com",
+        "OrigenDelEmpleado": "Bolivia",
+        "NombreCompletoEmpleado": "Sofía Morales"
+    },
+    {
+        "NumeroTelefonoEmpleado": "234567891",
+        "EmpleadoID": "2B25A",
+        "IdPuestoDelEmpleado": "36598",
+        "EmpleadoDNI": "12345678K",
+        "EmailDelEmpleado": "daniel.ruiz@example.com",
+        "OrigenDelEmpleado": "Brasil",
+        "NombreCompletoEmpleado": "Daniel Ruiz"
+    },
+    {
+        "NumeroTelefonoEmpleado": "345678912",
+        "EmpleadoID": "8BBB6",
+        "IdPuestoDelEmpleado": "36598",
+        "EmpleadoDNI": "23456789L",
+        "EmailDelEmpleado": "carmen.vega@example.com",
+        "OrigenDelEmpleado": "Panamá",
+        "NombreCompletoEmpleado": "Carmen Vega"
+    },
+    {
+        "NumeroTelefonoEmpleado": "456789123",
+        "EmpleadoID": "4A1BB",
+        "IdPuestoDelEmpleado": "36598",
+        "EmpleadoDNI": "34567890M",
+        "EmailDelEmpleado": "fernando.ortiz@example.com",
+        "OrigenDelEmpleado": "Costa Rica",
+        "NombreCompletoEmpleado": "Fernando Ortiz"
+    },
+    {
+        "NumeroTelefonoEmpleado": "567891234",
+        "EmpleadoID": "65D17",
+        "IdPuestoDelEmpleado": "36598",
+        "EmpleadoDNI": "45678901N",
+        "EmailDelEmpleado": "elena.castro@example.com",
+        "OrigenDelEmpleado": "España",
+        "NombreCompletoEmpleado": "Elena Castro"
+    },
+    {
+        "NumeroTelefonoEmpleado": "678912345",
+        "EmpleadoID": "24ABE",
+        "IdPuestoDelEmpleado": "36598",
+        "EmpleadoDNI": "56789012O",
+        "EmailDelEmpleado": "adriana.silva@example.com",
+        "OrigenDelEmpleado": "Honduras",
+        "NombreCompletoEmpleado": "Adriana Silva"
+    },
+    {
+        "NumeroTelefonoEmpleado": "987654321",
+        "EmpleadoID": "3180E",
+        "IdPuestoDelEmpleado": "CB217",
+        "EmpleadoDNI": "87654321A",
+        "EmailDelEmpleado": "valentina.rojas@example.com",
+        "OrigenDelEmpleado": "Chile",
+        "NombreCompletoEmpleado": "Valentina Rojas"
+    },
+    {
+        "NumeroTelefonoEmpleado": "876543219",
+        "EmpleadoID": "97BDC",
+        "IdPuestoDelEmpleado": "CB217",
+        "EmpleadoDNI": "76543219B",
+        "EmailDelEmpleado": "jorge.castro@example.com",
+        "OrigenDelEmpleado": "Argentina",
+        "NombreCompletoEmpleado": "Jorge Castro"
+    },
+    {
+        "NumeroTelefonoEmpleado": "765432198",
+        "EmpleadoID": "F456C",
+        "IdPuestoDelEmpleado": "CB217",
+        "EmpleadoDNI": "65432198C",
+        "EmailDelEmpleado": "andrea.torres@example.com",
+        "OrigenDelEmpleado": "Perú",
+        "NombreCompletoEmpleado": "Andrea Torres"
+    },
+    {
+        "NumeroTelefonoEmpleado": "654321987",
+        "EmpleadoID": "565C4",
+        "IdPuestoDelEmpleado": "AD305",
+        "EmpleadoDNI": "54321987D",
+        "EmailDelEmpleado": "sebastian.vargas@example.com",
+        "OrigenDelEmpleado": "Colombia",
+        "NombreCompletoEmpleado": "Sebastián Vargas"
+    },
+    {
+        "NumeroTelefonoEmpleado": "543219876",
+        "EmpleadoID": "F9F66",
+        "IdPuestoDelEmpleado": "AD305",
+        "EmpleadoDNI": "43219876E",
+        "EmailDelEmpleado": "gabriela.ramirez@example.com",
+        "OrigenDelEmpleado": "Ecuador",
+        "NombreCompletoEmpleado": "Gabriela Ramírez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "432198765",
+        "EmpleadoID": "64C36",
+        "IdPuestoDelEmpleado": "06D4D",
+        "EmpleadoDNI": "32198765F",
+        "EmailDelEmpleado": "ignacio.morales@example.com",
+        "OrigenDelEmpleado": "México",
+        "NombreCompletoEmpleado": "Ignacio Morales"
+    },
+    {
+        "NumeroTelefonoEmpleado": "321987654",
+        "EmpleadoID": "68F51",
+        "IdPuestoDelEmpleado": "CA83C",
+        "EmpleadoDNI": "21987654G",
+        "EmailDelEmpleado": "carolina.mendez@example.com",
+        "OrigenDelEmpleado": "Uruguay",
+        "NombreCompletoEmpleado": "Carolina Méndez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "219876543",
+        "EmpleadoID": "32E71",
+        "IdPuestoDelEmpleado": "CA83C",
+        "EmpleadoDNI": "19876543H",
+        "EmailDelEmpleado": "ricardo.ortiz@example.com",
+        "OrigenDelEmpleado": "Venezuela",
+        "NombreCompletoEmpleado": "Ricardo Ortiz"
+    },
+    {
+        "NumeroTelefonoEmpleado": "198765432",
+        "EmpleadoID": "A0A36",
+        "IdPuestoDelEmpleado": "CA83C",
+        "EmpleadoDNI": "98765432I",
+        "EmailDelEmpleado": "paula.jimenez@example.com",
+        "OrigenDelEmpleado": "Paraguay",
+        "NombreCompletoEmpleado": "Paula Jiménez"
+    },
+    {
+        "NumeroTelefonoEmpleado": "987654321",
+        "EmpleadoID": "E6F04",
+        "IdPuestoDelEmpleado": "5DFF6",
+        "EmpleadoDNI": "87654321J",
+        "EmailDelEmpleado": "tomas.blanco@example.com",
+        "OrigenDelEmpleado": "Bolivia",
+        "NombreCompletoEmpleado": "Tomás Blanco"
+    },
+    {
+        "NumeroTelefonoEmpleado": "876543210",
+        "EmpleadoID": "918B3",
+        "IdPuestoDelEmpleado": "5DFF6",
+        "EmpleadoDNI": "76543210K",
+        "EmailDelEmpleado": "isabel.navarro@example.com",
+        "OrigenDelEmpleado": "Brasil",
+        "NombreCompletoEmpleado": "Isabel Navarro"
+    }
+]

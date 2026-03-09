@@ -1,0 +1,23 @@
+[
+    {
+        "TarifaDelPuesto": 1.5,
+        "PermisoVentaAlcohol": true,
+        "NombreDelPuesto": "Parrillita rica",
+        "MetrosCuadradosPuesto": 35.6,
+        "IDPuestoBalneario": "9999E"
+    },
+    {
+        "TarifaDelPuesto": 1.75,
+        "PermisoVentaAlcohol": false,
+        "NombreDelPuesto": "Panaderia loca",
+        "MetrosCuadradosPuesto": 45.6,
+        "IDPuestoBalneario": "F7095"
+    },
+    {
+        "TarifaDelPuesto": 1.4,
+        "PermisoVentaAlcohol": true,
+        "NombreDelPuesto": "Kiosco",
+        "MetrosCuadradosPuesto": 30.7,
+        "IDPuestoBalneario": "36598"
+    }
+]

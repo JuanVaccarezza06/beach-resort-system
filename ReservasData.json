@@ -1,0 +1,262 @@
+[
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2014/20/13",
+            "CheckInFechaEgreso": "20/1/2024",
+            "DuracionDeReserva": 45
+        },
+        "ListaDeFamiliares": ["FAM123"],
+        "CocheraReservada": "DHXDWR",
+        "ServicioReservado": "DFHRT3",
+        "IDClienteTitular": "EDAF2",
+        "IDReserva": "EDAF2"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2023/11/15",
+            "CheckInFechaEgreso": "2023/12/15",
+            "DuracionDeReserva": 30
+        },
+        "ListaDeFamiliares": ["FAM456"],
+        "CocheraReservada": "TYU345",
+        "ServicioReservado": "PLX456",
+        "IDClienteTitular": "3918A",
+        "IDReserva": "3918A"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/01/01",
+            "CheckInFechaEgreso": "2024/04/01",
+            "DuracionDeReserva": 90
+        },
+        "ListaDeFamiliares": ["FAM789"],
+        "CocheraReservada": "IOP890",
+        "ServicioReservado": "HGF789",
+        "IDClienteTitular": "0E1BC",
+        "IDReserva": "0E1BC"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2023/11/20",
+            "CheckInFechaEgreso": "2023/11/27",
+            "DuracionDeReserva": 7
+        },
+        "ListaDeFamiliares": ["FAM234"],
+        "CocheraReservada": "MNB654",
+        "ServicioReservado": "JKL321",
+        "IDClienteTitular": "23322",
+        "IDReserva": "23322"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2023/11/10",
+            "CheckInFechaEgreso": "2023/11/25",
+            "DuracionDeReserva": 15
+        },
+        "ListaDeFamiliares": ["FAM567"],
+        "CocheraReservada": "LKJ890",
+        "ServicioReservado": "CVB654",
+        "IDClienteTitular": "5896C",
+        "IDReserva": "5896C"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/02/01",
+            "CheckInFechaEgreso": "2024/04/01",
+            "DuracionDeReserva": 60
+        },
+        "ListaDeFamiliares": ["FAM890"],
+        "CocheraReservada": "OPL567",
+        "ServicioReservado": "UIO123",
+        "IDClienteTitular": "0EECA",
+        "IDReserva": "0EECA"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2023/12/10",
+            "CheckInFechaEgreso": "2023/12/15",
+            "DuracionDeReserva": 5
+        },
+        "ListaDeFamiliares": ["FAM321"],
+        "CocheraReservada": "WSX567",
+        "ServicioReservado": "QAZ098",
+        "IDClienteTitular": "D4F34",
+        "IDReserva": "D4F34"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/03/01",
+            "CheckInFechaEgreso": "2024/09/01",
+            "DuracionDeReserva": 180
+        },
+        "ListaDeFamiliares": ["FAM654"],
+        "CocheraReservada": "YHN789",
+        "ServicioReservado": "TGB432",
+        "IDClienteTitular": "EE8BA",
+        "IDReserva": "EE8BA"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/01/01",
+            "CheckInFechaEgreso": "2024/04/01",
+            "DuracionDeReserva": 90
+        },
+        "ListaDeFamiliares": ["FAM987"],
+        "CocheraReservada": "VBN098",
+        "ServicioReservado": "ZXC567",
+        "IDClienteTitular": "6834D",
+        "IDReserva": "6834D"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2023/11/01",
+            "CheckInFechaEgreso": "2023/11/15",
+            "DuracionDeReserva": 14
+        },
+        "ListaDeFamiliares": ["FAM432"],
+        "CocheraReservada": "FGH432",
+        "ServicioReservado": "RTY654",
+        "IDClienteTitular": "7CA28",
+        "IDReserva": "7CA28"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2023/12/01",
+            "CheckInFechaEgreso": "2023/12/08",
+            "DuracionDeReserva": 7
+        },
+        "ListaDeFamiliares": ["FAM876"],
+        "CocheraReservada": "NMK876",
+        "ServicioReservado": "CVB987",
+        "IDClienteTitular": "2DF8E",
+        "IDReserva": "2DF8E"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/01/01",
+            "CheckInFechaEgreso": "2024/03/01",
+            "DuracionDeReserva": 60
+        },
+        "ListaDeFamiliares": ["FAM543"],
+        "CocheraReservada": "TGB321",
+        "ServicioReservado": "OIU123",
+        "IDClienteTitular": "8679D",
+        "IDReserva": "8679D"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2023/12/01",
+            "CheckInFechaEgreso": "2024/01/15",
+            "DuracionDeReserva": 45
+        },
+        "ListaDeFamiliares": ["FAM210"],
+        "CocheraReservada": "EDC987",
+        "ServicioReservado": "WSX432",
+        "IDClienteTitular": "0EB1B",
+        "IDReserva": "0EB1B"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2023/11/20",
+            "CheckInFechaEgreso": "2023/12/20",
+            "DuracionDeReserva": 30
+        },
+        "ListaDeFamiliares": ["FAM789"],
+        "CocheraReservada": "TGB123",
+        "ServicioReservado": "RFV987",
+        "IDClienteTitular": "1402E",
+        "IDReserva": "1402E"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/02/01",
+            "CheckInFechaEgreso": "2024/06/01",
+            "DuracionDeReserva": 120
+        },
+        "ListaDeFamiliares": ["FAM654"],
+        "CocheraReservada": "LKJ432",
+        "ServicioReservado": "OIU789",
+        "IDClienteTitular": "45B9E",
+        "IDReserva": "45B9E"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2023/11/22",
+            "CheckInFechaEgreso": "2023/11/29",
+            "DuracionDeReserva": 7
+        },
+        "ListaDeFamiliares": ["FAM123"],
+        "CocheraReservada": "EDC654",
+        "ServicioReservado": "WSX345",
+        "IDClienteTitular": "AAA7B",
+        "IDReserva": "AAA7B"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/03/01",
+            "CheckInFechaEgreso": "2024/09/01",
+            "DuracionDeReserva": 180
+        },
+        "ListaDeFamiliares": ["FAM321"],
+        "CocheraReservada": "RFV321",
+        "ServicioReservado": "TGB098",
+        "IDClienteTitular": "79587",
+        "IDReserva": "79587"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2024/01/01",
+            "CheckInFechaEgreso": "2024/04/01",
+            "DuracionDeReserva": 90
+        },
+        "ListaDeFamiliares": ["FAM567"],
+        "CocheraReservada": "NMK543",
+        "ServicioReservado": "CVB876",
+        "IDClienteTitular": "D7FE5",
+        "IDReserva": "D7FE5"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2023/11/10",
+            "CheckInFechaEgreso": "2023/11/25",
+            "DuracionDeReserva": 15
+        },
+        "ListaDeFamiliares": ["FAM890"],
+        "CocheraReservada": "VBN765",
+        "ServicioReservado": "ZXC098",
+        "IDClienteTitular": "209EE",
+        "IDReserva": "209EE"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2023/12/05",
+            "CheckInFechaEgreso": "2023/12/10",
+            "DuracionDeReserva": 5
+        },
+        "ListaDeFamiliares": ["FAM876"],
+        "CocheraReservada": "FGH654",
+        "ServicioReservado": "RTY987",
+        "IDClienteTitular": "F237B",
+        "IDReserva": "F237B"
+    }
+]

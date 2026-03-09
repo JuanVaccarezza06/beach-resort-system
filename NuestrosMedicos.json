@@ -1,0 +1,92 @@
+[
+    {
+        "NombreCompletoMedico": "Dr. Camila Gómez",
+        "TurnoAsignado": "MAÑANA",
+        "MedicoDNI": "23453563",
+        "OrigenDelMedico": "Buenos Aires",
+        "NumeroTelefonoMedico": "612345678",
+        "EmailDelMedico": "camilagomez@hospitalm.com",
+        "MedicoID": "DE679",
+        "Presencialidad": false
+    },
+    {
+        "NombreCompletoMedico": "Dr. Federico Álvarez",
+        "TurnoAsignado": "TARDE",
+        "MedicoDNI": "12532352",
+        "OrigenDelMedico": "Córdoba",
+        "NumeroTelefonoMedico": "645678901",
+        "EmailDelMedico": "federicoalvarez@clinicacentral.com",
+        "MedicoID": "19288",
+        "Presencialidad": true
+    },
+    {
+        "NombreCompletoMedico": "Dra. Valeria Domínguez",
+        "TurnoAsignado": "NOCHE",
+        "MedicoDNI": "2446325",
+        "OrigenDelMedico": "Rosario",
+        "NumeroTelefonoMedico": "678901234",
+        "EmailDelMedico": "valeriadominguez@sanatoriosur.com",
+        "MedicoID": "0F3BD",
+        "Presencialidad": true
+    },
+    {
+        "NombreCompletoMedico": "Dr. Nicolás Herrera",
+        "TurnoAsignado": "MAÑANA",
+        "MedicoDNI": "3264856",
+        "OrigenDelMedico": "Mendoza",
+        "NumeroTelefonoMedico": "687654321",
+        "EmailDelMedico": "nicolasherrera@medicor.com",
+        "MedicoID": "C9803",
+        "Presencialidad": false
+    },
+    {
+        "NombreCompletoMedico": "Dra. Laura Martínez",
+        "TurnoAsignado": "TARDE",
+        "MedicoDNI": "3246346",
+        "OrigenDelMedico": "Salta",
+        "NumeroTelefonoMedico": "698765432",
+        "EmailDelMedico": "lauramartinez@medicasalud.com",
+        "MedicoID": "B695E",
+        "Presencialidad": true
+    },
+    {
+        "NombreCompletoMedico": "Dr. Juan Pablo Rodríguez",
+        "TurnoAsignado": "MAÑANA",
+        "MedicoDNI": "3246345",
+        "OrigenDelMedico": "Tucumán",
+        "NumeroTelefonoMedico": "612345678",
+        "EmailDelMedico": "juanrodriguez@saludvip.com",
+        "MedicoID": "48CE8",
+        "Presencialidad": true
+    },
+    {
+        "NombreCompletoMedico": "Dra. Mariana Silva",
+        "TurnoAsignado": "TARDE",
+        "MedicoDNI": "56745756",
+        "OrigenDelMedico": "Catamarca",
+        "NumeroTelefonoMedico": "623456789",
+        "EmailDelMedico": "marianasilva@clinicavida.com",
+        "MedicoID": "78B35",
+        "Presencialidad": true
+    },
+    {
+        "NombreCompletoMedico": "Dr. Gabriel Mendoza",
+        "TurnoAsignado": "NOCHE",
+        "MedicoDNI": "234236",
+        "OrigenDelMedico": "Neuquén",
+        "NumeroTelefonoMedico": "634567890",
+        "EmailDelMedico": "gabrielmendoza@hospitalcentral.com",
+        "MedicoID": "58393",
+        "Presencialidad": true
+    },
+    {
+        "NombreCompletoMedico": "Dra. Lucía Pérez",
+        "TurnoAsignado": "MAÑANA",
+        "MedicoDNI": "2342366",
+        "OrigenDelMedico": "Chaco",
+        "NumeroTelefonoMedico": "645678901",
+        "EmailDelMedico": "luciaperez@sanatorionorte.com",
+        "MedicoID": "18D76",
+        "Presencialidad": true
+    }
+]

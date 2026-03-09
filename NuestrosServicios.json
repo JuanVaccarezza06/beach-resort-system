@@ -1,0 +1,2224 @@
+[
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 60,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C80BE"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 65,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0754B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 70,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "42A5F"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 75,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "09D31"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 80,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "FB510"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 85,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "8D79C"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 90,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AC56F"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 95,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6B5C2"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 100,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "35631"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 105,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "05EC3"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 110,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C9666"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 115,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "346E7"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 120,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "E22A3"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 125,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "FC327"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 130,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "8070B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 135,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "F623B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 140,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0BA84"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 145,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AF889"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 150,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6D6BC"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 155,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "7E3F4"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 160,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "EB5C8"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 165,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "EF795"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 170,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6CCAC"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 175,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "4F042"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 180,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B0C39"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 185,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "05A7B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 190,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AD710"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 195,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B0C18"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 200,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "33016"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 205,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5F9A6"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 210,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "91722"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 215,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "2405E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 220,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "2B1A6"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 225,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "35D67"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 230,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6D403"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 235,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "DAE46"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 240,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5C970"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 245,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "D8BA5"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 250,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "64D0D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 255,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "786FD"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 260,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1D753"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 265,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6BFAC"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 270,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "D3FAC"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 275,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "34D44"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 280,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "DA6D5"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 285,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "DD118"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 290,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "05242"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 295,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "968FA"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 300,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A0C7E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 305,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1BCEC"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 310,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "42227"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 315,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "86051"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 320,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C2B82"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 325,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5088D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 330,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "544AF"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 335,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "7604A"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 340,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1EDAB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 345,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "7901C"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 350,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "3D60E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 355,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "68D9E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 360,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5770D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 365,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A412E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 370,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5BB6C"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 375,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AAEAB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 380,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "344E6"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 385,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "43D85"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 390,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C4D23"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 395,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "10AB6"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 400,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A4835"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 405,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "63D95"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 410,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0F0C9"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 415,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A6710"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 420,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "77EAE"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 425,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "823A9"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 430,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "FBFBE"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 435,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "DC9F0"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 440,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "EEEA4"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 445,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C7C54"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 450,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1FE39"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 455,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "8C9FA"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 460,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B5CAB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 465,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "BFD9F"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 470,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A3FDB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 475,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B4821"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 480,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "46C22"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 485,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "55EA8"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 490,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A9CB5"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 495,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0C0FA"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 500,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "316B5"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 505,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B8177"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 510,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "3A9AD"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 515,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "10365"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 520,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "DC023"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 525,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "E8A23"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 530,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A58A1"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 535,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "2E4BD"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 540,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "D2465"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 545,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "4F6B8"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 550,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "92ED7"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 555,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1FD58"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 560,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "04443"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 565,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AA452"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 570,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "F8687"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 575,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "EEB3F"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 580,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6260E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 585,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "3653B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 590,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "59D53"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 595,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "9279D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 600,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "E7C29"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 605,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0236A"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 610,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "E019B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 615,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "E1831"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 620,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C40DE"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 625,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "75DB9"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 630,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "89647"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 635,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B4F73"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 640,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AE428"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 645,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "F19EB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 650,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "02A33"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 655,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "77322"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 660,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "9C215"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 665,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "2794D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 670,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "EA97A"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 675,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "C65F6"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 680,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "8CE17"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 685,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "3D343"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 690,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0FC88"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 695,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "7775A"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 700,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1091E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 705,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "2027E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 710,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5EAA2"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 715,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "D0214"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 720,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "B0EC3"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 725,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "875F9"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 730,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "235FF"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 735,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "8E572"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 740,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "04941"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 745,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "0B2C2"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 750,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "CA577"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 755,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "217EB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 760,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "21C3A"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 765,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "4AC77"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 770,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "A6562"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 775,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "CC4F1"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 780,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "3E929"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 785,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6D77B"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 790,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AD80E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 795,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "6A355"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 800,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "9077C"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 805,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "AAF9D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 810,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "DBAA6"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 815,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "27A5D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 820,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "3E6F7"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 825,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "40152"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 830,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "F00A8"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 835,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "42574"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 840,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "4B9B2"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 845,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "EBFBB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 850,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "63DA4"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 855,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Carpa desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "FEEC3"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 830,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Maderas partidas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "8CE2E"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 835,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Maderas partidas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "043EA"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 840,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Maderas partidas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "5EC6D"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 845,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Maderas partidas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "086EB"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 850,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Maderas partidas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "BF577"
+    },
+    {
+        "CantidadMaximaPersonas": 5,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 855,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Maderas partidas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "CARPA",
+        "IDServicio": "1FE78"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 25,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "CCF45"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 30,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "E3230"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 28,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "FAC15"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 32,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "267E6"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 27,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "E4B8D"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 29,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "414E3"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 26,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "5DD74"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 31,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "344BF"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 33,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "FFA24"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 24,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "86417"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 35,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "BE3DF"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 22,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "16001"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 34,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "550B3"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 23,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "78656"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 21,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "FB0C0"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 36,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "643C3"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 37,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "23228"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 38,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "549D8"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 39,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla ocupada",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "68068"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 40,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "61FA4"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 41,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "18D0D"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 42,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "D4DDA"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 43,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "3788D"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 44,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "E15F5"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 45,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "73F55"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 46,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "0ED75"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 47,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "B3974"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 48,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "88984"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 49,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "F0F72"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 50,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrilla desocupada",
+            "EstadoDelServicio": false
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "F8160"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 45,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrillas rotas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "6306B"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Central",
+        "TarifaDelServicio": 46,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrillas rotas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "89477"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Norte",
+        "TarifaDelServicio": 47,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrillas rotas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "856E2"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Sur",
+        "TarifaDelServicio": 48,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrillas rotas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "D1BBA"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Este",
+        "TarifaDelServicio": 49,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrillas rotas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "7716A"
+    },
+    {
+        "CantidadMaximaPersonas": 3,
+        "PosicionDelServicio": "Playa Oeste",
+        "TarifaDelServicio": 50,
+        "EstadoActualServicio": {
+            "MotivoDelEstado": "Sombrillas rotas",
+            "EstadoDelServicio": true
+        },
+        "TipoDeServicio": "SOMBRILLA",
+        "IDServicio": "D378E"
+    }
+]

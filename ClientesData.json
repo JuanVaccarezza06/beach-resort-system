@@ -1,0 +1,452 @@
+[
+    {
+        "OrigenDelCliente": "Madrid",
+        "TitularidadCliente": true,
+        "IdDelCliente": "E2A6D",
+        "NumeroTelefonoCliente": "612345678",
+        "ClienteDNI": "12345678A",
+        "NombreCompletoCliente": "Juan Pérez",
+        "EmailDelCliente": "juanperez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Barcelona",
+        "TitularidadCliente": true,
+        "IdDelCliente": "49608",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "23456789B",
+        "NombreCompletoCliente": "María García",
+        "EmailDelCliente": "mariagarcia@example.com"
+    },
+    {
+        "OrigenDelCliente": "Valencia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "2509C",
+        "NumeroTelefonoCliente": "678901234",
+        "ClienteDNI": "34567890C",
+        "NombreCompletoCliente": "Pedro González",
+        "EmailDelCliente": "pedrogonzalez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Córdoba",
+        "TitularidadCliente": true,
+        "IdDelCliente": "23D02",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "90123456I",
+        "NombreCompletoCliente": "Ana Rodríguez",
+        "EmailDelCliente": "anarodriguez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Murcia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "64C7E",
+        "NumeroTelefonoCliente": "678901234",
+        "ClienteDNI": "01234567J",
+        "NombreCompletoCliente": "Luis Fernández",
+        "EmailDelCliente": "luisfernandez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Madrid",
+        "TitularidadCliente": true,
+        "IdDelCliente": "160B9",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "12345678K",
+        "NombreCompletoCliente": "Pedro González",
+        "EmailDelCliente": "pedrogonzalez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Barcelona",
+        "TitularidadCliente": true,
+        "IdDelCliente": "5B079",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "23456789L",
+        "NombreCompletoCliente": "María García",
+        "EmailDelCliente": "mariagarcia@example.com"
+    },
+    {
+        "OrigenDelCliente": "Valencia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "06B3B",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "34567890M",
+        "NombreCompletoCliente": "Juan Pérez",
+        "EmailDelCliente": "juanperez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Sevilla",
+        "TitularidadCliente": true,
+        "IdDelCliente": "27F30",
+        "NumeroTelefonoCliente": "612345678",
+        "ClienteDNI": "45678901N",
+        "NombreCompletoCliente": "Sofía López",
+        "EmailDelCliente": "sofialopez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Bilbao",
+        "TitularidadCliente": true,
+        "IdDelCliente": "3B016",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "56789012O",
+        "NombreCompletoCliente": "Diego Jiménez",
+        "EmailDelCliente": "diegojimenez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Sevilla",
+        "TitularidadCliente": true,
+        "IdDelCliente": "6A49F",
+        "NumeroTelefonoCliente": "698765432",
+        "ClienteDNI": "45678901D",
+        "NombreCompletoCliente": "Laura Martínez",
+        "EmailDelCliente": "lauramartinez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Bilbao",
+        "TitularidadCliente": true,
+        "IdDelCliente": "BF435",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "56789012E",
+        "NombreCompletoCliente": "Martín Sánchez",
+        "EmailDelCliente": "martinsanchez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Málaga",
+        "TitularidadCliente": true,
+        "IdDelCliente": "75340",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "67890123F",
+        "NombreCompletoCliente": "Valentina Díaz",
+        "EmailDelCliente": "valentinadiaz@example.com"
+    },
+    {
+        "OrigenDelCliente": "Zaragoza",
+        "TitularidadCliente": true,
+        "IdDelCliente": "E5786",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "78901234G",
+        "NombreCompletoCliente": "Sofía López",
+        "EmailDelCliente": "sofialopez@example.com"
+    },
+    {
+        "OrigenDelCliente": "A Coruña",
+        "TitularidadCliente": true,
+        "IdDelCliente": "E441C",
+        "NumeroTelefonoCliente": "612345678",
+        "ClienteDNI": "89012345H",
+        "NombreCompletoCliente": "Diego Jiménez",
+        "EmailDelCliente": "diegojimenez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Córdoba",
+        "TitularidadCliente": true,
+        "IdDelCliente": "B8259",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "90123456I",
+        "NombreCompletoCliente": "Ana Rodríguez",
+        "EmailDelCliente": "anarodriguez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Murcia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "C1A72",
+        "NumeroTelefonoCliente": "678901234",
+        "ClienteDNI": "01234567J",
+        "NombreCompletoCliente": "Luis Fernández",
+        "EmailDelCliente": "luisfernandez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Madrid",
+        "TitularidadCliente": true,
+        "IdDelCliente": "83F31",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "12345678K",
+        "NombreCompletoCliente": "Pedro González",
+        "EmailDelCliente": "pedrogonzalez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Barcelona",
+        "TitularidadCliente": true,
+        "IdDelCliente": "03BEB",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "23456789L",
+        "NombreCompletoCliente": "María García",
+        "EmailDelCliente": "mariagarcia@example.com"
+    },
+    {
+        "OrigenDelCliente": "Valencia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "CC99A",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "34567890M",
+        "NombreCompletoCliente": "Juan Pérez",
+        "EmailDelCliente": "juanperez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Sevilla",
+        "TitularidadCliente": true,
+        "IdDelCliente": "487A7",
+        "NumeroTelefonoCliente": "698765432",
+        "ClienteDNI": "45678901D",
+        "NombreCompletoCliente": "Laura Martínez",
+        "EmailDelCliente": "lauramartinez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Bilbao",
+        "TitularidadCliente": true,
+        "IdDelCliente": "59BEB",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "56789012E",
+        "NombreCompletoCliente": "Martín Sánchez",
+        "EmailDelCliente": "martinsanchez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Málaga",
+        "TitularidadCliente": true,
+        "IdDelCliente": "CBBA6",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "67890123F",
+        "NombreCompletoCliente": "Valentina Díaz",
+        "EmailDelCliente": "valentinadiaz@example.com"
+    },
+    {
+        "OrigenDelCliente": "Zaragoza",
+        "TitularidadCliente": true,
+        "IdDelCliente": "16892",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "78901234G",
+        "NombreCompletoCliente": "Sofía López",
+        "EmailDelCliente": "sofialopez@example.com"
+    },
+    {
+        "OrigenDelCliente": "A Coruña",
+        "TitularidadCliente": true,
+        "IdDelCliente": "90A6B",
+        "NumeroTelefonoCliente": "612345678",
+        "ClienteDNI": "89012345H",
+        "NombreCompletoCliente": "Diego Jiménez",
+        "EmailDelCliente": "diegojimenez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Córdoba",
+        "TitularidadCliente": true,
+        "IdDelCliente": "2D402",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "90123456I",
+        "NombreCompletoCliente": "Ana Rodríguez",
+        "EmailDelCliente": "anarodriguez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Murcia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "6F321",
+        "NumeroTelefonoCliente": "678901234",
+        "ClienteDNI": "01234567J",
+        "NombreCompletoCliente": "Luis Fernández",
+        "EmailDelCliente": "luisfernandez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Madrid",
+        "TitularidadCliente": true,
+        "IdDelCliente": "CC99D",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "12345678K",
+        "NombreCompletoCliente": "Pedro González",
+        "EmailDelCliente": "pedrogonzalez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Barcelona",
+        "TitularidadCliente": true,
+        "IdDelCliente": "822D3",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "23456789L",
+        "NombreCompletoCliente": "María García",
+        "EmailDelCliente": "mariagarcia@example.com"
+    },
+    {
+        "OrigenDelCliente": "Valencia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "96906",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "34567890M",
+        "NombreCompletoCliente": "Juan Pérez",
+        "EmailDelCliente": "juanperez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Sevilla",
+        "TitularidadCliente": true,
+        "IdDelCliente": "5BA09",
+        "NumeroTelefonoCliente": "698765432",
+        "ClienteDNI": "45678901D",
+        "NombreCompletoCliente": "Laura Martínez",
+        "EmailDelCliente": "lauramartinez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Bilbao",
+        "TitularidadCliente": true,
+        "IdDelCliente": "1FC96",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "56789012E",
+        "NombreCompletoCliente": "Martín Sánchez",
+        "EmailDelCliente": "martinsanchez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Málaga",
+        "TitularidadCliente": true,
+        "IdDelCliente": "1F77C",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "67890123F",
+        "NombreCompletoCliente": "Valentina Díaz",
+        "EmailDelCliente": "valentinadiaz@example.com"
+    },
+    {
+        "OrigenDelCliente": "Zaragoza",
+        "TitularidadCliente": true,
+        "IdDelCliente": "DA253",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "78901234G",
+        "NombreCompletoCliente": "Sofía López",
+        "EmailDelCliente": "sofialopez@example.com"
+    },
+    {
+        "OrigenDelCliente": "A Coruña",
+        "TitularidadCliente": true,
+        "IdDelCliente": "8F42A",
+        "NumeroTelefonoCliente": "612345678",
+        "ClienteDNI": "89012345H",
+        "NombreCompletoCliente": "Diego Jiménez",
+        "EmailDelCliente": "diegojimenez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Córdoba",
+        "TitularidadCliente": true,
+        "IdDelCliente": "FBB98",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "90123456I",
+        "NombreCompletoCliente": "Ana Rodríguez",
+        "EmailDelCliente": "anarodriguez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Murcia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "40661",
+        "NumeroTelefonoCliente": "678901234",
+        "ClienteDNI": "01234567J",
+        "NombreCompletoCliente": "Luis Fernández",
+        "EmailDelCliente": "luisfernandez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Madrid",
+        "TitularidadCliente": true,
+        "IdDelCliente": "C50CD",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "12345678K",
+        "NombreCompletoCliente": "Pedro González",
+        "EmailDelCliente": "pedrogonzalez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Barcelona",
+        "TitularidadCliente": true,
+        "IdDelCliente": "04F52",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "23456789L",
+        "NombreCompletoCliente": "María García",
+        "EmailDelCliente": "mariagarcia@example.com"
+    },
+    {
+        "OrigenDelCliente": "Valencia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "94FCD",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "34567890M",
+        "NombreCompletoCliente": "Juan Pérez",
+        "EmailDelCliente": "juanperez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Sevilla",
+        "TitularidadCliente": true,
+        "IdDelCliente": "4C730",
+        "NumeroTelefonoCliente": "698765432",
+        "ClienteDNI": "45678901D",
+        "NombreCompletoCliente": "Laura Martínez",
+        "EmailDelCliente": "lauramartinez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Bilbao",
+        "TitularidadCliente": true,
+        "IdDelCliente": "D9487",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "56789012E",
+        "NombreCompletoCliente": "Martín Sánchez",
+        "EmailDelCliente": "martinsanchez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Málaga",
+        "TitularidadCliente": true,
+        "IdDelCliente": "23857",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "67890123F",
+        "NombreCompletoCliente": "Valentina Díaz",
+        "EmailDelCliente": "valentinadiaz@example.com"
+    },
+    {
+        "OrigenDelCliente": "Zaragoza",
+        "TitularidadCliente": true,
+        "IdDelCliente": "884EF",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "78901234G",
+        "NombreCompletoCliente": "Sofía López",
+        "EmailDelCliente": "sofialopez@example.com"
+    },
+    {
+        "OrigenDelCliente": "A Coruña",
+        "TitularidadCliente": true,
+        "IdDelCliente": "825FF",
+        "NumeroTelefonoCliente": "612345678",
+        "ClienteDNI": "89012345H",
+        "NombreCompletoCliente": "Diego Jiménez",
+        "EmailDelCliente": "diegojimenez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Córdoba",
+        "TitularidadCliente": true,
+        "IdDelCliente": "31BF8",
+        "NumeroTelefonoCliente": "645678901",
+        "ClienteDNI": "90123456I",
+        "NombreCompletoCliente": "Ana Rodríguez",
+        "EmailDelCliente": "anarodriguez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Murcia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "03E99",
+        "NumeroTelefonoCliente": "678901234",
+        "ClienteDNI": "01234567J",
+        "NombreCompletoCliente": "Luis Fernández",
+        "EmailDelCliente": "luisfernandez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Madrid",
+        "TitularidadCliente": true,
+        "IdDelCliente": "CB5D4",
+        "NumeroTelefonoCliente": "623456789",
+        "ClienteDNI": "12345678K",
+        "NombreCompletoCliente": "Pedro González",
+        "EmailDelCliente": "pedrogonzalez@example.com"
+    },
+    {
+        "OrigenDelCliente": "Barcelona",
+        "TitularidadCliente": true,
+        "IdDelCliente": "7EACE",
+        "NumeroTelefonoCliente": "654321098",
+        "ClienteDNI": "23456789L",
+        "NombreCompletoCliente": "María García",
+        "EmailDelCliente": "mariagarcia@example.com"
+    },
+    {
+        "OrigenDelCliente": "Valencia",
+        "TitularidadCliente": true,
+        "IdDelCliente": "A448D",
+        "NumeroTelefonoCliente": "687654321",
+        "ClienteDNI": "34567890M",
+        "NombreCompletoCliente": "Juan Pérez",
+        "EmailDelCliente": "juanperez@example.com"
+    }
+]

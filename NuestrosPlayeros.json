@@ -1,0 +1,64 @@
+[
+    {
+        "PagaHorasExtra": 3.2,
+        "EquipamentoAsignado": [
+            "Pala",
+            "Kit primeros auxilios",
+            "Mangueras y Baldes"
+        ],
+        "IDEquipoPlayeros": "5DFF6",
+        "CantidadPlayeros": 2,
+        "HorarioTrabajoAsistencia": "08:00 - 20:00",
+        "PasilloAsignado": 1
+    },
+    {
+        "PagaHorasExtra": 3,
+        "EquipamentoAsignado": [
+            "Pala",
+            "Kit primeros auxilios",
+            "Kit reparacion"
+        ],
+        "IDEquipoPlayeros": "CA83C",
+        "CantidadPlayeros": 3,
+        "HorarioTrabajoAsistencia": "08:00 - 20:00",
+        "PasilloAsignado": 2
+    },
+    {
+        "PagaHorasExtra": 3.5,
+        "EquipamentoAsignado": [
+            "Kit primeros auxilios",
+            "Kit reparacion",
+            "Escobas y Palas ",
+            "Carros de transporte",
+            "Mangueras y Baldes"
+        ],
+        "IDEquipoPlayeros": "06D4D",
+        "CantidadPlayeros": 1,
+        "HorarioTrabajoAsistencia": "08:00 - 20:00",
+        "PasilloAsignado": 3
+    },
+    {
+        "PagaHorasExtra": 3.2,
+        "EquipamentoAsignado": [
+            "Escobas y Palas ",
+            "Mangueras y Baldes",
+            "Kit primeros auxilios",
+            "Carros de transporte"
+        ],
+        "IDEquipoPlayeros": "AD305",
+        "CantidadPlayeros": 2,
+        "HorarioTrabajoAsistencia": "08:00 - 20:00",
+        "PasilloAsignado": 4
+    },
+    {
+        "PagaHorasExtra": 3,
+        "EquipamentoAsignado": [
+            "Escobas y Palas ",
+            "Kit primeros auxilios"
+        ],
+        "IDEquipoPlayeros": "CB217",
+        "CantidadPlayeros": 3,
+        "HorarioTrabajoAsistencia": "08:00 - 20:00",
+        "PasilloAsignado": 5
+    }
+]

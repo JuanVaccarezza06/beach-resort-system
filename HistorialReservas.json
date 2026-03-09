@@ -1,0 +1,132 @@
+[
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2016-01-05",
+            "CheckInFechaEgreso": "2016-01-20",
+            "DuracionDeReserva": 1
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH001",
+        "ServicioReservado": "S001",
+        "IDClienteTitular": "8FB16",
+        "IDReserva": "8FB16"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2016-01-15",
+            "CheckInFechaEgreso": "2016-01-22",
+            "DuracionDeReserva": 7
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH002",
+        "ServicioReservado": "S002",
+        "IDClienteTitular": "0EF83",
+        "IDReserva": "0EF83"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2016-02-01",
+            "CheckInFechaEgreso": "2016-02-11",
+            "DuracionDeReserva": 1
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH003",
+        "ServicioReservado": "S003",
+        "IDClienteTitular": "FD211",
+        "IDReserva": "FD211"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2016-02-15",
+            "CheckInFechaEgreso": "2016-02-20",
+            "DuracionDeReserva": 5
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH004",
+        "ServicioReservado": "S004",
+        "IDClienteTitular": "DBA82",
+        "IDReserva": "DBA82"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "MES",
+            "CheckInFechaIngreso": "2016-01-10",
+            "CheckInFechaEgreso": "2016-01-30",
+            "DuracionDeReserva": 2
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH005",
+        "ServicioReservado": "S005",
+        "IDClienteTitular": "6A6A9",
+        "IDReserva": "6A6A9"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2016-02-20",
+            "CheckInFechaEgreso": "2016-03-05",
+            "DuracionDeReserva": 14
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH006",
+        "ServicioReservado": "S006",
+        "IDClienteTitular": "A111E",
+        "IDReserva": "A111E"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2015-12-28",
+            "CheckInFechaEgreso": "2016-01-05",
+            "DuracionDeReserva": 8
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH007",
+        "ServicioReservado": "S007",
+        "IDClienteTitular": "8491A",
+        "IDReserva": "8491A"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "DIA",
+            "CheckInFechaIngreso": "2016-01-25",
+            "CheckInFechaEgreso": "2016-01-31",
+            "DuracionDeReserva": 6
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH008",
+        "ServicioReservado": "S008",
+        "IDClienteTitular": "3BD2B",
+        "IDReserva": "3BD2B"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2016-02-10",
+            "CheckInFechaEgreso": "2016-02-22",
+            "DuracionDeReserva": 90
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH009",
+        "ServicioReservado": "S009",
+        "IDClienteTitular": "DB2FE",
+        "IDReserva": "DB2FE"
+    },
+    {
+        "CheckReserva": {
+            "TipoContrato": "TEMPORADA",
+            "CheckInFechaIngreso": "2016-03-01",
+            "CheckInFechaEgreso": "2016-03-16",
+            "DuracionDeReserva": 90
+        },
+        "ListaDeFamiliares": [],
+        "CocheraReservada": "CH010",
+        "ServicioReservado": "S010",
+        "IDClienteTitular": "D6DAD",
+        "IDReserva": "D6DAD"
+    }
+]
