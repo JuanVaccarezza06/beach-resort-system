@@ -10,16 +10,13 @@ public class ConsolaBalneario {
 
     static {
         try {
-            // Inicializa la terminal profesional
             Terminal terminal = TerminalBuilder.builder()
                     .system(true)
-                    .jansi(true) // Importante para Windows
                     .build();
             reader = LineReaderBuilder.builder()
                     .terminal(terminal)
                     .build();
         } catch (Exception e) {
-            // Si falla JLine, podrías poner un fallback aquí
             e.printStackTrace();
         }
     }

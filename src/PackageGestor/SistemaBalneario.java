@@ -533,7 +533,7 @@ public class SistemaBalneario {
         // "NuestrosServicios.json", y listo
 
         JSONArray array = NuestrosServicios.guardarServicios();
-        JSONUtiles.writeInFile(array, a1);
+        JSONUtiles.writeInFile(array, a);
 
         array = NuestrasCocheras.guardarCocheras();
         JSONUtiles.writeInFile(array, a1);

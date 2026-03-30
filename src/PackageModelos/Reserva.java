@@ -106,8 +106,8 @@ public class Reserva extends Modelo {
         JSONArray array = new JSONArray();
 
         try{
-            o.put("IDClienteTitular",super.getId());
-            o.put("IDReserva",super.getId());
+            o.put("IDClienteTitular", this.idCliente);
+            o.put("IDReserva",        super.getId());
             o.put("ServicioReservado",this.idServicio);
             o.put("CocheraReservada",this.idCochera);
             o.put("CheckReserva",this.check.CheckToJson());

@@ -37,11 +37,7 @@ public class Almacenamiento<T extends Modelo> {
 
     public void eliminarObjetoPorId(String ID) throws CadenaVacia {
         if (ID != null) {
-            for (T o : lista) {
-                if (o.getId().equals(ID)) {
-                    lista.remove(o);
-                }
-            }
+            lista.removeIf(o -> o.getId().equals(ID));
         } else {
             throw new CadenaVacia();
         }
